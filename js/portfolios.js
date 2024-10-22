@@ -1,5 +1,41 @@
 var portfolio_data = [
 	{
+		id: 'game-dom-project',
+		images: [
+			{
+				src: './images/gamedom/5.png',
+				thumb: './images/gamedom/5.png',
+				// subHtml: '<h4>Landing Page</h4><p>Pizza Food WebApp Project</p>',
+			},
+			{
+				src: './images/gamedom/1.png',
+				thumb: './images/gamedom/1.png',
+				// subHtml: '<h4>Landing Page</h4><p>Pizza Food WebApp Project</p>',
+			},
+			{
+				src: './images/gamedom/2.png',
+				thumb: './images/gamedom/2.png',
+				// subHtml: '<h4>Pizza Section</h4><p>Pizza Food WebApp Project</p>',
+			},
+			{
+				src: './images/gamedom/3.png',
+				thumb: './images/gamedom/3.png',
+				// subHtml:
+				// 	'<h4>Side & Beverages Section</h4><p>Pizza Food WebApp Project</p>',
+			},
+			{
+				src: './images/gamedom/4.png',
+				thumb: './images/gamedom/4.png',
+				// subHtml: '<h4>Cart Page</h4><p>Pizza Food WebApp Project</p>',
+			},
+			{
+				src: './images/gamedom/6.png',
+				thumb: './images/gamedom/6.png',
+				// subHtml: '<h4>Orders Page</h4><p>Pizza Food WebApp Project</p>',
+			}
+		],
+	},
+	{
 		id: 'ai-cover-project',
 		images: [
 			{
